@@ -11,7 +11,9 @@ httP://www.pastforward.link
 ### 1.1 업무 정리
 
 **1. 전체 프로젝트 일정 구성**  
+
 **2. 기획 개요 제작 [**초반 기획 작업 모음**](https://www.notion.so/e7ff61f1a34f4edcba21b3d08666e43d?pvs=21)** 
+
 **3. 웹 사이트 UX/UI 디자인 담당** - [in Figma](https://www.figma.com/file/zJaBNvTvLlG0d9h5TILICj/Past-Forward-Web-Site?type=design&node-id=524%3A9733&mode=design&t=B3sGfj94IRz1BbZV-1)
 
 ![Figma 작업창](./images/Figma.png)
