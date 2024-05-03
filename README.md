@@ -19,7 +19,8 @@ httP://www.pastforward.link
 
 **4. 용어 정의 사전 제작 [PF 사이트 용어 정의](https://www.notion.so/PF-2a9d6f970ba544d980fce11501fba1d7?pvs=21)** 
     - 모든 팀원의 소통을 원활하게 하기 위해 비슷한 용어를 정의
-![용어정의](./images/사이트 용어정의.mp4)
+    
+![용어정의](./images/Site.mp4)
   
 **5. 깃허브 마일스톤 구성 및 작성**
 
