@@ -3,8 +3,21 @@
 ## 더 나은 프로젝트를 위한 회고 웹사이트 Past Forward
 PastForward 웹 애플리케이션은 React랑 SpringBoot로 만들어진 사이트입니다. 현재 무료로 이용해볼 수 있는 웹사이트이며 바로 사용할 수 있는 템플릿과 칸반보드 형식 제공으로 쉽고 빠르게 회고를 시작해볼 수 있습니다.
 
-## 사이트 바로가기
-httP://www.pastforward.link
+![mainPage](https://github.com/donga-it-club/past-forward-frontend/assets/138123134/b19cc815-677f-42e8-ab35-f7acfa4bf988)
+
+
+- 배포 URL : https://www.pastforward.link/
+
+<br>
+
+## 프로젝트 소개
+
+- Past-Forward는 팀원들과 회고 작성을 할 수 있는 웹페이지입니다.
+- 회고 템플릿(총 두가지)에 따라 다른 주제로 회고 카드를 네가지 섹션으로 나누어 작성이 가능합니다.
+- 팀원 초대 링크를 통해 팀원들을 초대하고 관리(초대 및 삭제 기능)할 수 있습니다.
+- 다양한 유저들을 마음에 드는 회고 카드에 좋아요를 누르거나 댓글을 작성할 수 있습니다.
+
+<br>
 
 
 ## Version 1.0
