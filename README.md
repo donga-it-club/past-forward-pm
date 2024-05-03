@@ -1,6 +1,10 @@
 # Past-forward-pm
-- 담당 업무 : 
 
+## 더 나은 프로젝트를 위한 회고 웹사이트 Past Forward
+PastForward는 
+
+
+## Version 1.0
 **1.1 업무 정리** 
 
 1. **전체 프로젝트 일정 구성**  
