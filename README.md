@@ -24,19 +24,6 @@ PastForward 웹 애플리케이션은 React랑 SpringBoot로 만들어진 사이
 - **사후 배포글**
     - 지정 플랫폼 : okky, 에브리타임, 링커리어, 인스타그램(각 지인들에게 비공식적으로), 카카오톡(각 지인들에게 비공식적으로)
 
-**1.2 pm 회고**
 
-- 프로젝트 중간에 개발 팀원분들에게 pm업무보다 개발 업무에 집중을 요청드렸어서 pm업무에 대한 회고는 작성량이 적습니다
 
 [Past-Forward](https://www.pastforward.link/sections?retrospectiveId=350&teamId=268)
-
-**1.3 Ver.2 방향성**
-
-- 현재 일정 요약
-    - **[04/27 - 04/28]** : Ver.1 테스트
-    - **[04/29 - 05/05] 
-    - 백/프론트 :** 테스트 구글 시트https://docs.google.com/spreadsheets/d/1CUghOvbS-s7-xyG5eUZUnnR84-1jykZvX-YFDuklfF8/edit?usp=sharing + 사용자 피드백(Contact로 온 메일 + 사후 설문조사 구글폼)을 기반으로 유지보수
-    - **PM :** Ver.2 개발 방향 확립 (신기능 추가 및 Ver.1의 문제점을 수정한 개발 방법 고)
-    - **[05/06 ~ 05/24]** : Ver.2 개발
-    - **[05/27 ~ 05/31]** : 프로젝트 마무리 및 각 분야 최종 결과 정리
-    - **[📍06/01 or 06/02] 중으로 프로젝트 전체 팀원 총 회고 진행 및 프로젝트 마무리 보고회**
