@@ -1,5 +1,5 @@
-# pjt-pm-meeting-record
-Past-Forward PM팀
+# past-forward-pm
+- 담당 업무 : 
 
 **1.1 업무 정리** 
 
