@@ -31,7 +31,3 @@ httP://www.pastforward.link
     - 해당 설문조사에서 배포 후 링크를 받고자 하신 분들에게 배포되었다고 메일 드릴 예정
 - **사후 배포글**
     - 지정 플랫폼 : okky, 에브리타임, 링커리어, 인스타그램(각 지인들에게 비공식적으로), 카카오톡(각 지인들에게 비공식적으로)
-
-
-
-[Past-Forward](https://www.pastforward.link/sections?retrospectiveId=350&teamId=268)
