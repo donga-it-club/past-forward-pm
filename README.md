@@ -9,20 +9,21 @@ PastForward 웹 애플리케이션은 React랑 SpringBoot로 만들어진 사이
 
 1. **전체 프로젝트 일정 구성**  
 2. **기획 개요 제작 [**초반 기획 작업 모음**](https://www.notion.so/e7ff61f1a34f4edcba21b3d08666e43d?pvs=21)** 
-3. **웹 사이트 UX/UI 디자인 담당 - [in Figma](https://www.figma.com/file/zJaBNvTvLlG0d9h5TILICj/Past-Forward-Web-Site?type=design&node-id=524%3A9733&mode=design&t=B3sGfj94IRz1BbZV-1)
+3. **웹 사이트 UX/UI 디자인 담당** - [in Figma](https://www.figma.com/file/zJaBNvTvLlG0d9h5TILICj/Past-Forward-Web-Site?type=design&node-id=524%3A9733&mode=design&t=B3sGfj94IRz1BbZV-1)
+
+
+
 4. **용어 정의 사전 제작 [PF 사이트 용어 정의](https://www.notion.so/PF-2a9d6f970ba544d980fce11501fba1d7?pvs=21)** 
     - 모든 팀원의 소통을 원활하게 하기 위해 비슷한 용어를 정의
 5. **팀원 소통 채널 생성**
     - 백 / 프론트 API 연결 시, 소통이 필요할 것으로 예상되어 생성한 채널
-    - 개발하는 팀원분들이 사소한 질문이나 오류를 자체적으로 해결해보기 위해 비공개로 설정하였으며, 해결되지 않는 오류 부분은 각 공개 채널에 질문하는 방식으로 진행했습니다!
     - ex) [BE] → [FE] 와 같은 형식으로 글을 작성하여 질문사항을 남기도록 요청
-                
 6. **배포글 작성 (사전 설문조사 배포 / 사후 배포 글 양식 작성)**
 - 사전 설문조사 결과 (데이터팀이 분석 예정)
     - 해당 설문조사에서 배포 후 링크를 받고자 하신 분들에게 배포되었다고 메일 드릴 예정
-        
 - **사후 배포글**
     - 지정 플랫폼 : okky, 에브리타임, 링커리어, 인스타그램(각 지인들에게 비공식적으로), 카카오톡(각 지인들에게 비공식적으로)
+7. 
 
 
 
