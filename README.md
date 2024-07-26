@@ -41,7 +41,7 @@
 <br>
 
 ## PM 업무 소개
-회의록 살펴보기 -> [PM 회의록 모음](https://github.com/donga-it-club/past-forward-pm/wiki/Meeting-File)
+회의록 살펴보기 -> [PM 회의록 모음](https://github.com/donga-it-club/past-forward-pm/wiki/Meeting-File)(📍총 27회차 회의 진행)
 
 ## Version 1.0
 ### 1.1 전체 업무 정리
