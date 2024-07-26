@@ -5,7 +5,7 @@
 ### 개발 공부와 팀 프로젝트를 위한 회고 작성 웹사이트 Past Forward
 팀 프로젝트 또는 개발 공부 중이신가요? 개발자가 되면 '회고'라는 단어를 많이 듣게 될 텐데, 회고는 단순한 일기가 아니라 프로젝트와 개발 과정에서 매우 중요한 부분입니다. 현업에서도 널리 사용되는 이 회고를 사용자 친화적인 웹 사이트에서 손 쉽게 시작해보세요!
 
-![mainPage](https://github.com/donga-it-club/past-forward-frontend/assets/138123134/b19cc815-677f-42e8-ab35-f7acfa4bf988)
+![mainPage](https://github.com/donga-it-club/past-forward-pm/blob/main/images/%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EB%A1%9C%EA%B3%A0.png)
 
 
 - 배포 URL : https://www.pastforward.link/
