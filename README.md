@@ -41,17 +41,27 @@ PastForward 웹 애플리케이션은 React랑 SpringBoot로 만들어진 사이
 **6. 팀원 소통 채널 생성**
     - 백 / 프론트 API 연결 시, 소통이 필요할 것으로 예상되어 생성한 채널
     - ex) [BE] → [FE] 와 같은 형식으로 글을 작성하여 질문사항을 남기도록 요청
-**7. 배포글 작성 (사전 설문조사 배포 / 사후 배포 글 양식 작성)**
 
+
+**7. 배포글 작성 (사전 설문조사 배포 / 사후 배포 글 양식 작성)**
+- 메인 키워드
+  : 대학생 프로젝트 팀, 회고 플랫폼, 무료 제공, KPT/Kudos 템플릿, 모바일 지원, 성장
 - 사전 설문조사 결과 (데이터팀이 분석 예정)
     - 해당 설문조사에서 배포 후 링크를 받고자 하신 분들에게 배포되었다고 메일 드릴 예정
 - **사후 배포글**
     - 지정 플랫폼 : okky, 에브리타임, 링커리어, 인스타그램(각 지인들에게 비공식적으로), 카카오톡(각 지인들에게 비공식적으로)
+    - 배포글 확인
+          [링커리어 커뮤니티](https://community.linkareer.com/jayuu/2969023)
+          [okky 커뮤니티](https://okky.kr/articles/1498997)
+          [링크드인](https://www.linkedin.com/posts/%EB%AF%B8%EC%A0%95-%EA%B6%8C-08bb5b251_uqmqte-qpqrqe-uikrxgsxjtxu-activity-7192470955422580736-iWB-?utm_source=share&utm_medium=member_ios)
+          [기프티콘 이벤트 링크드인](https://www.linkedin.com/posts/%EB%AF%B8%EC%A0%95-%EA%B6%8C-08bb5b251_uqmqte-qpqrqe-uikrxgsxjtxu-activity-7194226159188885504-G9Dd?utm_source=share&utm_medium=member_ios)
+**7-1. 배포 방식 회고 **
+      - 타겟팅을 제대로 하지 못했고 최종 배포가 아니다보니 소극적으로 배포글을 올린 경향이 있음. 데이터팀은 사용자가 많아야 하기 때문에 다음 최종 배포때는 대학교 학생들을 타겟팅하고 사이트 차별성 키워드를 변경할 예정
 
 
 ## Version 2.0
 ### 2.1 개선 사항
-
+    
 ### 2.2 추가 사항
 
 - [RetroList] 사용자가 직접 생성한 회고이거나 리더인 회고는 "본인" 이라는 표시가 회고 보드에 나타난다.
