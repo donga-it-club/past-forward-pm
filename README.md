@@ -43,6 +43,9 @@
 ## PM 업무 소개
 회의록 살펴보기 -> [📍PM 1~10회차 회의록](https://github.com/donga-it-club/past-forward-pm/wiki/Meeting-File-(1-~-10%EC%B0%A8))
 
+## PM 팀원
+
+
 ## Version 1.0
 ### 1.1 전체 업무 정리
 
