@@ -87,8 +87,8 @@
           [링커리어 커뮤니티](https://community.linkareer.com/jayuu/2969023)
           [okky 커뮤니티](https://okky.kr/articles/1498997)
           [링크드인](https://www.linkedin.com/posts/%EB%AF%B8%EC%A0%95-%EA%B6%8C-08bb5b251_uqmqte-qpqrqe-uikrxgsxjtxu-activity-7192470955422580736-iWB-?utm_source=share&utm_medium=member_ios)
-          [기프티콘 이벤트 링크드인](https://www.linkedin.com/posts/%EB%AF%B8%EC%A0%95-%EA%B6%8C-08bb5b251_uqmqte-qpqrqe-uikrxgsxjtxu-activity-7194226159188885504-G9Dd?utm_source=share&utm_medium=member_ios)
-**7-1. 배포 방식 회고 **
+          [기프티콘 이벤트 링크드인](https://www.linkedin.com/posts/%EB%AF%B8%EC%A0%95-%EA%B6%8C-08bb5b251_uqmqte-qpqrqe-uikrxgsxjtxu-activity-7194226159188885504-G9Dd?utm_source=share&utm_medium=member_ios) <br>
+   7-1. 배포 방식 회고
       - 타겟팅을 제대로 하지 못했고 최종 배포가 아니다보니 소극적으로 배포글을 올린 경향이 있음. 데이터팀은 사용자가 많아야 하기 때문에 다음 최종 배포때는 대학교 학생들을 타겟팅하고 사이트 차별성 키워드를 변경할 예정
 
 
