@@ -44,7 +44,7 @@
 **회의록 살펴보기<br>**
 - [📍PM 1~10회차 회의록](https://github.com/donga-it-club/past-forward-pm/wiki/Meeting-File-(1-~-10%EC%B0%A8))
 - [📍PM 11~20회차 회의록](https://github.com/donga-it-club/past-forward-pm/wiki/%F0%9F%93%8D%ED%9A%8C%EC%9D%98%EB%A1%9D-(11-~-20%EC%B0%A8))
-- [📍PM 21~26회차 회의록](https://github.com/donga-it-club/past-forward-pm/wiki/%F0%9F%93%8D%ED%9A%8C%EC%9D%98%EB%A1%9D-(11-~-20%EC%B0%A8))
+- [📍PM 21~26회차 회의록](https://github.com/donga-it-club/past-forward-pm/wiki/%F0%9F%93%8D%ED%9A%8C%EC%9D%98%EB%A1%9D-(21-~-26%EC%B0%A8))
 
 ## PM 팀원
 <div align="center">
