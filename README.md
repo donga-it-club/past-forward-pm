@@ -56,21 +56,23 @@
 </div>
 
 ## Version 1.0
-### 1.1 전체 업무 정리
+### 1.1 전체 프로젝트 일정 구성
+- [구글 캘린더 일정](https://calendar.google.com/calendar/embed?src=c_135e4f39ab910c24c61cb5f36b3c0f18db5117579aebe5b592c6b792116b34d4%40group.calendar.google.com&ctz=Asia%2FSeoul)
+   - 현재는 일부분 변경됨
 
-**1. 전체 프로젝트 일정 구성**  
+### 1.2 기획 개요 제작 
+- [초반 기획 작업 모음](https://www.notion.so/e7ff61f1a34f4edcba21b3d08666e43d?pvs=21)
 
-**2. 기획 개요 제작 [**초반 기획 작업 모음**](https://www.notion.so/e7ff61f1a34f4edcba21b3d08666e43d?pvs=21)** 
-
-**3. 웹 사이트 UX/UI 디자인 담당** - [in Figma](https://www.figma.com/file/zJaBNvTvLlG0d9h5TILICj/Past-Forward-Web-Site?type=design&node-id=524%3A9733&mode=design&t=B3sGfj94IRz1BbZV-1)
-
+### 1.3 웹 사이트 UX/UI 디자인 담당 
+- [in Figma](https://www.figma.com/file/zJaBNvTvLlG0d9h5TILICj/Past-Forward-Web-Site?type=design&node-id=524%3A9733&mode=design&t=B3sGfj94IRz1BbZV-1)
 ![Figma 작업창](./images/Figma.png)
 
-
-**4. 용어 정의 사전 제작 [PF 사이트 용어 정의](https://www.notion.so/PF-2a9d6f970ba544d980fce11501fba1d7?pvs=21)** 
+### 1.4 용어 정의 사전 제작 
+- [PF 사이트 용어 정의](https://www.notion.so/PF-2a9d6f970ba544d980fce11501fba1d7?pvs=21)
     - 모든 팀원의 소통을 원활하게 하기 위해 비슷한 용어를 정의
       
-**5. 깃허브 마일스톤 구성 및 작성**
+### 1.5 깃허브 마일스톤 구성 및 작성
+- [깃허브 마일스톤](https://github.com/donga-it-club/past-foward-backend/milestones)
 
 
 **6. 팀원 소통 채널 생성**
@@ -96,11 +98,27 @@
 
 ## Version 2.0
 ### 2.1 개선 사항
-    
-### 2.2 추가 사항
+- 메인 페이지 디자인 수정
+- 피그마 Ver.2 페이지로 전환
+- [WrtieRetro] 각 회고 템플릿 사용 방법을 설명하는 How to use 모달창 추가
 
+<br>
+
+### 2.2 추가 사항
 - [RetroList] 사용자가 직접 생성한 회고이거나 리더인 회고는 "본인" 이라는 표시가 회고 보드에 나타난다.
    - 내가 생성한 회고인지, 초대받아서 들어간 회고인지 한눈에 확인할 수 있다
+- [ProjectRetro] 회고를 프로젝트 단위로 묶어서 확인 가능
+- [NoticeBoard] 공지사항 게시판 / 회고에 대한 공식 설명 게시판
+- [WriteRetro] Kudos 섹션의 칭찬 받는 사람 지정 기능 추가
 
+### 2.3 타임박싱 도입
+- [깃허브 타임박싱 도입](https://github.com/orgs/donga-it-club/projects/5/views/2)
+  - 프로젝트 작업 현황을 모든 분야 사람들이 다같이 확인할 수 있도록 도입한 프로세스
+ 
+### 2.4 배포글 작성
+- 메인 키워드
+  : 팀 프로젝트, 쉬운 시작, 현업 실무 활용 회고, 개발 습관, 개발 입문자 친화, 학생 프로젝트, 개발 습관
+- 메인 타겟팅
+  : 같은 동아대 학생들 - 단체 카톡방에 공유
 
 
